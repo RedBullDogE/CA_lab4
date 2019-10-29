@@ -4,6 +4,7 @@
 ### Author: Krivonos Andrew
 ### Group: IV-72
 
-- First task: ***Makefile-1***
-- Second task (using CMake with make for building project): ***build/make-build/***
-- Third task (using CMake with ninja for): ***build/ninja-build/***
+- First task (create makefile): ***Makefile-1***
+- Second task (create CMakeLists): ***CMakeLists.txt***
+- Project build using CMake with make: ***build/make-build/***
+- Project build using CMake with ninja: ***build/ninja-build/***
