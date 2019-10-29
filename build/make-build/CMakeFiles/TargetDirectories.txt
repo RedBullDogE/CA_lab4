@@ -1,0 +1,4 @@
+/home/drew/Study/AK/lab4/src/build/make-build/CMakeFiles/rebuild_cache.dir
+/home/drew/Study/AK/lab4/src/build/make-build/CMakeFiles/factorial.dir
+/home/drew/Study/AK/lab4/src/build/make-build/CMakeFiles/edit_cache.dir
+/home/drew/Study/AK/lab4/src/build/make-build/CMakeFiles/main.dir
